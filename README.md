@@ -46,24 +46,23 @@ I am a **Flutter Developer** and **Graphic Designer**
       
 ## 📊 GitHub Analytics  
 
-
-## 📊 GitHub Overview  
+ 
 
 <div align="center">
 
-<!-- Clean Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamsehgal&theme=minimal&bg_color=ffffff00&color=4A90E2&line=4A90E2&point=000000&hide_border=true&radius=12" width="100%" height="250"/>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamsehgal&theme=github-dark&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&radius=12" width="100%" height="250"/>
 
 <br/>
 
-<!-- Stats and Streaks (Side by Side) -->
+<!-- Stats + Streaks -->
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&count_private=true&theme=transparent&bg_color=ffffff00&title_color=000000&text_color=000000&icon_color=4A90E2&hide_border=true&border_radius=12&rank_icon=github" height="180" />
+      <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&count_private=true&theme=transparent&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&border_radius=12&rank_icon=github" height="180" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=satyamsehgal&theme=transparent&background=ffffff00&stroke=4A90E2&ring=4A90E2&fire=000000&currStreakLabel=4A90E2&sideLabels=000000&dates=000000&hide_border=true&border_radius=12" height="180" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=satyamsehgal&theme=transparent&background=00000000&stroke=58A6FF&ring=58A6FF&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=FFFFFF&dates=C9D1D9&hide_border=true&border_radius=12" height="180" />
     </td>
   </tr>
 </table>
@@ -71,10 +70,9 @@ I am a **Flutter Developer** and **Graphic Designer**
 <br/>
 
 <!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=compact&theme=transparent&bg_color=ffffff00&title_color=000000&text_color=000000&hide_border=true&border_radius=12" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=compact&theme=transparent&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&hide_border=true&border_radius=12" height="160" />
 
 </div>
-
 ---
 
 ## ⚡ Tech Stack
