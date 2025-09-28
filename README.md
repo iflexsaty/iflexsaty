@@ -37,7 +37,7 @@ I am a **Flutter Developer** and **Graphic Designer**
 <a href="https://t.me/iflexsaty" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
-  <a href="[      ](https://open.spotify.com/user/316wjxesisw6qbmlyygdsapgxb6e?si=yV0xVkxiRoKsylguykiQqQ)"  target="_blank">
+  <a href="https://open.spotify.com/user/316wjxesisw6qbmlyygdsapgxb6e?si=yV0xVkxiRoKsylguykiQqQ"  target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
       </p>
