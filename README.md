@@ -12,8 +12,7 @@
 ---
 
 ## About Me
-I am a **Flutter Developer** and **Graphic Designer** who loves building clean, modern, and functional applications.  
-My work blends **technology and design** — ensuring not only performance but also beautiful user experiences.  
+I am a **Flutter Developer** and **Graphic Designer**   
 
 - Currently working on **Flutter apps**  
 - Learning **Dart architecture & state management**  
@@ -38,7 +37,7 @@ My work blends **technology and design** — ensuring not only performance but a
 
 ---
 
-## 📊 GitHub Stats (Designer Edition)
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&rank_icon=percentile" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=satyamsehgal&theme=tokyonight&border_radius=12" height="180" />
@@ -62,5 +61,5 @@ My work blends **technology and design** — ensuring not only performance but a
 ---
 
 
-<p align="center">✨ *“Design isn’t just what it looks like and feels like — design is how it works.”* ✨
+<p align="center"> *“Design isn’t just what it looks like and feels like — design is how it works.”* 
 </p>
