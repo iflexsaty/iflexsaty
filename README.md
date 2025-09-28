@@ -16,7 +16,7 @@ My work blends **technology and design** — ensuring not only performance but a
 - Learning **Dart architecture & state management**  
 - Passionate about **UI/UX design** (Figma, Photoshop, Illustrator)  
 - Interested in **scalable mobile solutions**  
-- Reach me at: [youremail@example.com](mailto:satyamsehgal498@gmail.com)  
+- Reach me at: [satyamsehgal498@gmail.com](mailto:satyamsehgal498@gmail.com)  
 
 ---
 
