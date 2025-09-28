@@ -23,42 +23,49 @@ I am a **Flutter Developer** and **Graphic Designer**
 ---
 
 ## 🔗 Connect With Me
+
+## 🔗 Connect With Me
 <p align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
 
-  <a href="(https://linkedin.com/in/satyam-sehgal-8362002b8)" target="_blank" style="display:inline-block;">
-    <div style="width:60px; height:60px; border-radius:50%; overflow:hidden; display:flex; align-items:center; justify-content:center; background:#fff; box-shadow:0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
-      <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" />
+  <a href="https://linkedin.com/in/yourusername" target="_blank" style="display:inline-block;">
+    <div style="width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; background:#0A66C2; transition: transform 0.3s;">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30" />
     </div>
   </a>
 
-  <a href="mailto:satyamsehgal498@gmail.com" target="_blank" style="display:inline-block;">
-    <div style="width:60px; height:60px; border-radius:50%; overflow:hidden; display:flex; align-items:center; justify-content:center; background:#fff; box-shadow:0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
-      <img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" />
+  <a href="mailto:youremail@example.com" target="_blank" style="display:inline-block;">
+    <div style="width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; background:#D14836; transition: transform 0.3s;">
+      <img src="https://skillicons.dev/icons?i=gmail" width="30" height="30" />
     </div>
   </a>
 
-  <a href="https://t.me/iflexsaty" target="_blank" style="display:inline-block;">
-    <div style="width:60px; height:60px; border-radius:50%; overflow:hidden; display:flex; align-items:center; justify-content:center; background:#fff; box-shadow:0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
-      <img src="https://skillicons.dev/icons?i=telegram" width="35" height="35" />
+  <a href="https://t.me/yourusername" target="_blank" style="display:inline-block;">
+    <div style="width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; background:#0088CC; transition: transform 0.3s;">
+      <img src="https://skillicons.dev/icons?i=telegram" width="30" height="30" />
     </div>
   </a>
 
-  <a href="(https://open.spotify.com/user/316wjxesisw6qbmlyygdsapgxb6e?si=yV0xVkxiRoKsylguykiQqQ)" target="_blank" style="display:inline-block;">
-    <div style="width:60px; height:60px; border-radius:50%; overflow:hidden; display:flex; align-items:center; justify-content:center; background:#fff; box-shadow:0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
-      <img src="https://skillicons.dev/icons?i=spotify" width="35" height="35" />
+  <a href="https://open.spotify.com/user/yourspotifyid" target="_blank" style="display:inline-block;">
+    <div style="width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; background:#1ED760; transition: transform 0.3s;">
+      <img src="https://skillicons.dev/icons?i=spotify" width="30" height="30" />
     </div>
   </a>
 
- 
+  <a href="https://your-portfolio.com" target="_blank" style="display:inline-block;">
+    <div style="width:60px; height:60px; border-radius:50%; display:flex; align-items:center; justify-content:center; background:#333; transition: transform 0.3s;">
+      <img src="https://skillicons.dev/icons?i=web" width="30" height="30" />
+    </div>
+  </a>
 
 </p>
 
 <style>
   a div:hover {
     transform: scale(1.2);
-    box-shadow:0 8px 15px rgba(0,0,0,0.2);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.2);
   }
-</style>---
+</style> 
+
 
 ## 📊 GitHub Stats
 <p align="center">
