@@ -41,29 +41,37 @@ I am a **Flutter Developer** and **Graphic Designer**
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
       </p>
-
       
-## 📊 GitHub Insights  
+---
+      
+## 📊 GitHub Analytics  
 
 <div align="center">
 
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamsehgal&theme=react-dark&bg_color=0D1117&color=58A6FF&line=FF6E96&point=FFFFFF&area=true&hide_border=true&radius=16" width="100%" height="280"/>
+
+<br/>
+
+<!-- Stats and Streaks -->
 <table>
   <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&count_private=true&hide=stars&theme=transparent&bg_color=0D1117&title_color=58A6FF&icon_color=FF6E96&text_color=C9D1D9&hide_border=true&rank_icon=github&border_radius=16" height="180" />
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&count_private=true&theme=gradient&bg_color=0D1117,1E3C72,2A5298&title_color=FF6E96&text_color=FFFFFF&icon_color=58A6FF&hide_border=true&border_radius=20&rank_icon=percentile" height="200" />
     </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=satyamsehgal&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF6E96&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&border_radius=16" height="180" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&border_radius=16" height="160" />
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=satyamsehgal&theme=react-dark&background=0D1117&stroke=58A6FF&ring=FF6E96&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=FFFFFF&hide_border=true&border_radius=20" height="200" />
     </td>
   </tr>
 </table>
 
+<br/>
+
+<!-- Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=donut-vertical&theme=gradient&bg_color=0D1117,2C5364,0F2027&title_color=58A6FF&text_color=FFFFFF&hide_border=true&border_radius=20" height="260" />
+
 </div>
+
 ---
 
 ## ⚡ Tech Stack
