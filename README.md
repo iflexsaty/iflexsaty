@@ -23,12 +23,13 @@
 <h2 align="center">🌟 About Me</h2>
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/person-male.png" width="90" style="border-radius:50%;"/>
+  <img src= width="90" style="border-radius:50%;"/>
 </p>
 
 <p align="center" style="font-size:16px; line-height:1.6; color:#222; font-weight:500;">
 I’m <strong>Satyam Sehgal</strong> — a <span style="color:#007AFF;">Flutter Developer</span> and 
-<span style="color:#FF2D55;">Graphic Designer</span> who loves building clean, smooth, and impactful 
+<span style= ![💫](https://github.com/user-attachments/assets/41283f9e-40ce-46ab-b3a3-cacda0b2bc78)
+"color:#FF2D55;">Graphic Designer</span> who loves building clean, smooth, and impactful 
 digital experiences ✨.  
 </p>
 
