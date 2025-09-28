@@ -23,16 +23,21 @@ I am a **Flutter Developer** and **Graphic Designer**
 ---
 
 ## 🔗 Connect With Me
-<p align="left">
+## 🔗 Connect With Me
+<p align="center">
   <a href="https://linkedin.com/in/satyam-sehgal-8362002b8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
   </a>
   <a href="mailto:satyamsehgal498@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
   </a>
   <a href="https://t.me/iflexsaty" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+    <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" />
+  </a>
+  <a href="(https://open.spotify.com/user/316wjxesisw6qbmlyygdsapgxb6e?si=yV0xVkxiRoKsylguykiQqQ)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spotify" width="48" height="48" />
+  </a>
+  
 </p>
 
 ---
