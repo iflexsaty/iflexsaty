@@ -4,7 +4,8 @@
 <h1 align="center">Hi, I'm <strong>Satyam </strong></h1>
 <h3 align="center">Flutter Developer | UI/UX Designer | Tech Enthusiast</h3>
 
-![ -3](https://github.com/user-attachments/assets/44b02082-ab2a-4a41-8613-3da5899a7d9f)
+![ -2](https://github.com/user-attachments/assets/1a7882b3-1c4a-4bf0-a383-547ac4c6f951)
+
 
 
 ---
