@@ -37,7 +37,14 @@ I am a **Flutter Developer** and **Graphic Designer**
   <a href="(https://open.spotify.com/user/316wjxesisw6qbmlyygdsapgxb6e?si=yV0xVkxiRoKsylguykiQqQ)"  target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
-</p>
+      </p>
+        <style>
+  a div:hover {
+    transform: scale(1.2);
+    box-shadow: 0 8px 15px rgba(0,0,0,0.2);
+  }
+</style>
+      
 
 ## 📊 GitHub Stats
 <p align="center">
