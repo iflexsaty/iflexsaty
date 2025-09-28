@@ -33,7 +33,7 @@ I am a **Flutter Developer** and **Graphic Designer**
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="(https://open.spotify.com/user/316wjxesisw6qbmlyygdsapgxb6e?si=yV0xVkxiRoKsylguykiQqQ)"  target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
 </p>
 
