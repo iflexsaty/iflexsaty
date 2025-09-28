@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/satyamsehgal/satyamsehgal/main/banner.png" 
-       alt="Satyam Sehgal Banner" 
+  <img src= ![💫](https://github.com/user-attachments/assets/2236c847-1f7b-4170-971c-cc060d4dd2c8)
+
        width="100%" 
        style="border-radius:16px;"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm <strong>Satyam Sehgal</strong></h1>
+<h1 align="center">Hi, I'm <strong>Satyam Sehgal</strong></h1>
 <h3 align="center">Flutter Developer | UI/UX Designer | Tech Enthusiast</h3>
 
 ---
