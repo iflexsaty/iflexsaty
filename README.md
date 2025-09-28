@@ -43,17 +43,27 @@ I am a **Flutter Developer** and **Graphic Designer**
       </p>
 
       
+## 📊 GitHub Insights  
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&rank_icon=percentile" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=satyamsehgal&theme=tokyonight&border_radius=12" height="180" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=compact&theme=tokyonight&border_radius=12" height="165" />
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&count_private=true&hide=stars&theme=transparent&bg_color=0D1117&title_color=58A6FF&icon_color=FF6E96&text_color=C9D1D9&hide_border=true&rank_icon=github&border_radius=16" height="180" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=satyamsehgal&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=FF6E96&fire=FF6E96&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=C9D1D9&border_radius=16" height="180" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=compact&theme=transparent&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide_border=true&border_radius=16" height="160" />
+    </td>
+  </tr>
+</table>
 
+</div>
 ---
 
 ## ⚡ Tech Stack
