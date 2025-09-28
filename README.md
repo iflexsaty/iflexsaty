@@ -34,9 +34,9 @@ I am a **Flutter Developer** and **Graphic Designer**
   <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-   <a href="https://t.me/iflexsaty" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" />
-  </a>
+<a href="https://t.me/iflexsaty" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
   <a href="(https://open.spotify.com/user/316wjxesisw6qbmlyygdsapgxb6e?si=yV0xVkxiRoKsylguykiQqQ)"  target="_blank">
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
