@@ -32,10 +32,14 @@ My work blends **technology and design** — ensuring not only performance but a
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Designer Edition)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&theme=radical&border_radius=12" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsehgal&theme=radical&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&rank_icon=percentile" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=satyamsehgal&theme=tokyonight&border_radius=12" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=compact&theme=tokyonight&border_radius=12" height="165" />
 </p>
 
 ---
@@ -51,9 +55,6 @@ My work blends **technology and design** — ensuring not only performance but a
 
 ---
 
-## 📌 Featured Projects
-- 🚀 **Project 1** – Short description (Flutter + Firebase)  
-- 🎨 **Project 2** – UI/UX focused mobile app  
-- ⚡ **Project 3** – Open-source contribution / tool  
 
-<p align="center">👉 More projects available on my <a href="https://github.com/satyamsehgal">GitHub profile</a></p>
+<p align="center">✨ *“Design isn’t just what it looks like and feels like — design is how it works.”* ✨</p>
+al">GitHub profile</a></p>
