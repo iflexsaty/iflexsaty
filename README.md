@@ -56,5 +56,5 @@ My work blends **technology and design** — ensuring not only performance but a
 ---
 
 
-<p align="center">✨ *“Design isn’t just what it looks like and feels like — design is how it works.”* ✨</p>
-al">GitHub profile</a></p>
+<p align="center">✨ *“Design isn’t just what it looks like and feels like — design is how it works.”* ✨
+</p>
