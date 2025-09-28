@@ -3,100 +3,63 @@
   <img src="https://raw.githubusercontent.com/satyamsehgal/satyamsehgal/main/banner.png" 
        alt="Satyam Sehgal Banner" 
        width="100%" 
-       style="border-radius:20px; box-shadow:0px 4px 12px rgba(0,0,0,0.1);"/>
+       style="border-radius:16px;"/>
 </p>
 
-<h1 align="center" style="font-size:38px; font-weight:700; color:#111;">Satyam Sehgal</h1>
-<h3 align="center" style="font-weight:400; color:#555;">Flutter Developer · UI/UX Designer · Technology Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <strong>Satyam Sehgal</strong></h1>
+<h3 align="center">Flutter Developer | UI/UX Designer | Tech Enthusiast</h3>
 
 ---
 
-<!-- About Me -->
-<div style="
-  border-radius:18px;
-  padding:24px;
-  margin:20px 0;
-  background:linear-gradient(135deg, #fdfbfb, #ebedee);
-  box-shadow:0 6px 16px rgba(0,0,0,0.08);
-">
+## 🧑‍💻 About Me
+I am a **Flutter Developer** and **Graphic Designer** who loves building clean, modern, and functional applications.  
+My work blends **technology and design** — ensuring not only performance but also beautiful user experiences.  
 
-<h2 align="center">About Me</h2>
-
-<p align="center" style="font-size:15px; line-height:1.6; color:#222; font-weight:400; max-width:600px; margin:auto;">
-I am a <strong>Flutter Developer</strong> with a passion for building modern, high-performance mobile applications.  
-With a background in <strong>graphic design</strong>, I focus on creating applications that balance <em>clean design</em> and <em>seamless user experience</em>.  
-Currently, I am expanding my expertise in <strong>Dart</strong> and advanced <strong>app architecture</strong> to deliver scalable and efficient solutions.
-</p>
-
-</div>
+- 🔭 Currently working on **Flutter apps**  
+- 🌱 Learning **Dart architecture & state management**  
+- 🎨 Passionate about **UI/UX design** (Figma, Photoshop, Illustrator)  
+- 🚀 Interested in **scalable mobile solutions**  
+- 📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)  
 
 ---
 
-<!-- Skills -->
-<div style="
-  border-radius:18px;
-  padding:20px;
-  background:linear-gradient(135deg,#eef2f3,#8e9eab);
-  box-shadow:0 4px 14px rgba(0,0,0,0.1);
-  text-align:center;
-">
-  
-<h2>Skills</h2>
-
-<p>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
+## 🔗 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
 </p>
-</div>
 
 ---
 
-<!-- GitHub Stats -->
-<div style="
-  border-radius:18px;
-  padding:20px;
-  margin:20px 0;
-  background:linear-gradient(135deg,#fafafa,#eaeaea);
-  box-shadow:0 4px 14px rgba(0,0,0,0.08);
-  text-align:center;
-">
-
-<h2>GitHub Overview</h2>
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&theme=transparent&hide_border=true&border_radius=12" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsehgal&theme=transparent&hide_border=true&border_radius=12" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&theme=radical&border_radius=12" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsehgal&theme=radical&border_radius=12" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=compact&theme=transparent&hide_border=true&border_radius=12"/>
-</p>
-</div>
 
 ---
 
-<!-- Contact -->
-<div style="
-  border-radius:18px;
-  padding:20px;
-  background:linear-gradient(135deg,#fdfcfb,#e2d1c3);
-  box-shadow:0 4px 14px rgba(0,0,0,0.08);
-  text-align:center;
-">
-
-<h2>Get in Touch</h2>
-
+## ⚡ Tech Stack
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
 </p>
-</div>
 
 ---
 
-<p align="center" style="font-size:14px; font-weight:400; color:#777;">
-Crafted with a focus on clean design and performance — inspired by Apple’s design philosophy.
-</p>
+## 📌 Featured Projects
+- 🚀 **Project 1** – Short description (Flutter + Firebase)  
+- 🎨 **Project 2** – UI/UX focused mobile app  
+- ⚡ **Project 3** – Open-source contribution / tool  
+
+<p align="center">👉 More projects available on my <a href="https://github.com/satyamsehgal">GitHub profile</a></p>
