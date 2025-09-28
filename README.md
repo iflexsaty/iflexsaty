@@ -69,11 +69,6 @@ I am a **Flutter Developer** and **Graphic Designer**
 
 <br/>
 
-<!-- Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=compact&theme=transparent&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&hide_border=true&border_radius=12" height="160" />
-
-</div>
----
 
 ## ⚡ Tech Stack
 <p align="center">
