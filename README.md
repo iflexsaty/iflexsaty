@@ -1,6 +1,6 @@
 <!-- Banner with Rounded Corners -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/satyamsehgal/satyamsehgal/main/banner.png" 
+  <img src="https://raw.githubusercontent.com/iflexsaty/iflexsaty/main/banner.jpg" 
        alt="Satyam Sehgal Banner" 
        width="100%" 
        style="border-radius:24px; box-shadow:0px 6px 20px rgba(0,0,0,0.15);"/>
