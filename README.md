@@ -4,7 +4,8 @@
 <h1 align="center">Hi, I'm <strong>Satyam </strong></h1>
 <h3 align="center">Flutter Developer | UI/UX Designer | Tech Enthusiast</h3>
 
-![Header toji](https://github.com/user-attachments/assets/65603412-c003-4d3f-801e-578888a48623)
+
+![jjk banner](https://github.com/user-attachments/assets/f722995d-112a-483b-8a6c-4ae54e06109a)
 
 
 ---
