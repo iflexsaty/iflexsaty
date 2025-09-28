@@ -23,24 +23,42 @@ I am a **Flutter Developer** and **Graphic Designer**
 ---
 
 ## 🔗 Connect With Me
-## 🔗 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/satyam-sehgal-8362002b8" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" />
+<p align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
+
+  <a href="(https://linkedin.com/in/satyam-sehgal-8362002b8)" target="_blank" style="display:inline-block;">
+    <div style="width:60px; height:60px; border-radius:50%; overflow:hidden; display:flex; align-items:center; justify-content:center; background:#fff; box-shadow:0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+      <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" />
+    </div>
   </a>
-  <a href="mailto:satyamsehgal498@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" />
+
+  <a href="mailto:satyamsehgal498@gmail.com" target="_blank" style="display:inline-block;">
+    <div style="width:60px; height:60px; border-radius:50%; overflow:hidden; display:flex; align-items:center; justify-content:center; background:#fff; box-shadow:0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+      <img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" />
+    </div>
   </a>
-  <a href="https://t.me/iflexsaty" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="48" height="48" />
+
+  <a href="https://t.me/iflexsaty" target="_blank" style="display:inline-block;">
+    <div style="width:60px; height:60px; border-radius:50%; overflow:hidden; display:flex; align-items:center; justify-content:center; background:#fff; box-shadow:0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+      <img src="https://skillicons.dev/icons?i=telegram" width="35" height="35" />
+    </div>
   </a>
-  <a href="(https://open.spotify.com/user/316wjxesisw6qbmlyygdsapgxb6e?si=yV0xVkxiRoKsylguykiQqQ)" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spotify" width="48" height="48" />
+
+  <a href="(https://open.spotify.com/user/316wjxesisw6qbmlyygdsapgxb6e?si=yV0xVkxiRoKsylguykiQqQ)" target="_blank" style="display:inline-block;">
+    <div style="width:60px; height:60px; border-radius:50%; overflow:hidden; display:flex; align-items:center; justify-content:center; background:#fff; box-shadow:0 4px 6px rgba(0,0,0,0.1); transition: transform 0.3s;">
+      <img src="https://skillicons.dev/icons?i=spotify" width="35" height="35" />
+    </div>
   </a>
-  
+
+ 
+
 </p>
 
----
+<style>
+  a div:hover {
+    transform: scale(1.2);
+    box-shadow:0 8px 15px rgba(0,0,0,0.2);
+  }
+</style>---
 
 ## 📊 GitHub Stats
 <p align="center">
