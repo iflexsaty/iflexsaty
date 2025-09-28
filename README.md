@@ -26,12 +26,12 @@ I am a **Flutter Developer** and **Graphic Designer**
 
 
 <p align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/satyam-sehgal-8362002b8" target="_blank">
    
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:satyamsehgal498@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 <a href="https://t.me/iflexsaty" target="_blank">
