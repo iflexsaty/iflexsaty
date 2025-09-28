@@ -1,59 +1,65 @@
-![poster inspos](https://github.com/user-attachments/assets/9766ee84-70b3-41aa-b3e2-72bdeb3b8b15)
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/iflexsaty/iflexsaty/main/banner.png" alt="Banner" width="100%" style="border-radius:20px;"/>
+</p>
 
-<h1 align="center">👋 Hello, I'm <strong>Satyam Sehgal</strong></h1>
-<h3 align="center">💻 Flutter Developer | 🎨 Graphic Designer | 🚀 Technology Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm <strong>Satyam Sehgal</strong></h1>
+<h3 align="center">💻 Flutter Developer · 🎨 Graphic Designer · 🚀 Tech Enthusiast</h3>
 
 ---
 
-## 👨‍💻 About Me  
-I am a passionate **Flutter & Android developer** with a strong background in **graphic design**.  
-I enjoy transforming ideas into intuitive and impactful digital experiences, whether it’s through **mobile app development** or **UI/UX design**.  
-
-- 🔭 Currently building **Flutter applications**  
-- 🌱 Expanding expertise in **Dart, app architecture, and scalable design**  
-- 🎨 Skilled with **Figma, Photoshop, Illustrator**  
-- 📫 Reach me at: **satyamsehgal498@gmail.com**  
+<!-- About Me Card -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Flutter-Developer-blue?style=for-the-badge&logo=flutter&logoColor=white&labelColor=0D1117" style="border-radius:20px;"/>
+  <img src="https://img.shields.io/badge/Graphic-Designer-purple?style=for-the-badge&logo=adobe-illustrator&logoColor=white&labelColor=0D1117" style="border-radius:20px;"/>
+</div>
 
 ---
 
-## ⚡ Technical Skills  
+## 🌟 About Me  
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<div style="border-radius:20px; padding:20px; background:linear-gradient(135deg,#fceabb,#f8b500);">
+  
+✨ Building **beautiful mobile apps** with Flutter  
+🎨 Designing clean and aesthetic **UI/UX** with Figma & Adobe tools  
+📚 Currently exploring **Dart & app scalability**  
+💡 Believer in design simplicity with impact  
 
-<p align="center">
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+</div>
 
-<p align="center">
-  <!-- Design Tools -->
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>
-</p>
+---
+
+## ⚡ Tech Stack  
+
+<div align="center" style="border-radius:20px; padding:20px; background:linear-gradient(135deg,#43cea2,#185a9d);">
+  
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+<br/>  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/>  
+
+</div>
 
 ---
 
 ## 📊 GitHub Highlights  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" height="165"/>
+<p align="center" style="border-radius:20px; background:linear-gradient(135deg,#FF6FD8,#3813C2); padding:15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&border_radius=20" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&border_radius=20" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=default&hide_border=true"/>
+<p align="center" style="border-radius:20px; background:linear-gradient(135deg,#667eea,#764ba2); padding:15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&border_radius=20"/>
 </p>
 
 ---
 
-## 🌐 Let’s Connect  
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -64,4 +70,4 @@ I enjoy transforming ideas into intuitive and impactful digital experiences, whe
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile. Let’s build something impactful together. ✨</p>
+<p align="center">✨ Crafted with a blend of code & creativity — just like Apple’s design ✨</p>
