@@ -4,7 +4,8 @@
 <h1 align="center">Hi, I'm <strong>Satyam </strong></h1>
 <h3 align="center">Flutter Developer | UI/UX Designer | Tech Enthusiast</h3>
 
-![ ](https://github.com/user-attachments/assets/27fe0655-ed6e-4197-997f-bc96cea2a588)
+
+![Toji Fushiguro - Black Remix](https://github.com/user-attachments/assets/4ce6d1c1-2f95-4ee8-98ea-b1a440a63bb4)
 
 
 
