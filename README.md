@@ -27,9 +27,9 @@ I am a **Flutter Developer** and **Graphic Designer**
 
 <p align="center" style="display:flex; gap:20px; justify-content:center; flex-wrap:wrap;">
   <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <div style="width:60px; height:60px; border-radius:25%; display:flex; align-items:center; justify-content:center; background:#0A66C2; transition: transform 0.3s;">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-      <div>
+   
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  
   </a>
   <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -38,12 +38,7 @@ I am a **Flutter Developer** and **Graphic Designer**
     <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
   </a>
       </p>
-        <style>
-  a div:hover {
-    transform: scale(1.2);
-    box-shadow: 0 8px 15px rgba(0,0,0,0.2);
-  }
-</style>
+
       
 
 ## 📊 GitHub Stats
