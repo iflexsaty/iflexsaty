@@ -1,14 +1,14 @@
 
 
 
-<h1 align="center">Hi, I'm <strong>Satyam Sehgal</strong></h1>
+<h1 align="center">Hi, I'm <strong>Satyam </strong></h1>
 <h3 align="center">Flutter Developer | UI/UX Designer | Tech Enthusiast</h3>
 
 ![🕷](https://github.com/user-attachments/assets/4f3e623a-0380-446d-b6ef-f20b5ac0dbb5)
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 I am a **Flutter Developer** and **Graphic Designer** who loves building clean, modern, and functional applications.  
 My work blends **technology and design** — ensuring not only performance but also beautiful user experiences.  
 
