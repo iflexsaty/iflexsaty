@@ -1,7 +1,4 @@
-<!-- Professional Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Satyam Sehgal Banner" width="100%"/>
-</p>
+![poster inspos](https://github.com/user-attachments/assets/9766ee84-70b3-41aa-b3e2-72bdeb3b8b15)
 
 <h1 align="center">👋 Hello, I'm <strong>Satyam Sehgal</strong></h1>
 <h3 align="center">💻 Flutter Developer | 🎨 Graphic Designer | 🚀 Technology Enthusiast</h3>
@@ -15,7 +12,7 @@ I enjoy transforming ideas into intuitive and impactful digital experiences, whe
 - 🔭 Currently building **Flutter applications**  
 - 🌱 Expanding expertise in **Dart, app architecture, and scalable design**  
 - 🎨 Skilled with **Figma, Photoshop, Illustrator**  
-- 📫 Reach me at: **youremail@example.com**  
+- 📫 Reach me at: **satyamsehgal498@gmail.com**  
 
 ---
 
