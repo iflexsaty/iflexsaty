@@ -1,9 +1,9 @@
-<!-- Banner with Glass Effect -->
+<!-- Banner with Rounded Corners -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" 
-       alt="Banner" 
+  <img src="https://raw.githubusercontent.com/satyamsehgal/satyamsehgal/main/banner.png" 
+       alt="Satyam Sehgal Banner" 
        width="100%" 
-       style="border-radius:24px; box-shadow:0px 4px 20px rgba(0,0,0,0.2);"/>
+       style="border-radius:24px; box-shadow:0px 6px 20px rgba(0,0,0,0.15);"/>
 </p>
 
 <h1 align="center" style="font-size:42px; font-weight:800; color:#111;">👋 Hi, I'm <span style="color:#007AFF;">Satyam Sehgal</span></h1>
@@ -13,35 +13,43 @@
 
 <!-- About Me Card -->
 <div style="
-  border-radius:20px;
+  border-radius:24px;
   padding:24px;
   margin:20px 0;
-  background:linear-gradient(135deg, #f5f7fa, #c3cfe2);
-  box-shadow:0 4px 20px rgba(0,0,0,0.08);
+  background:linear-gradient(135deg, #ffecd2, #fcb69f);
+  box-shadow:0 8px 20px rgba(0,0,0,0.15);
 ">
-  
-<h2>🌟 About Me</h2>
-<p>
-I am a passionate <strong>Flutter & Android Developer</strong> with a strong background in <strong>graphic design</strong>.  
-I focus on creating apps and designs that feel <em>simple, elegant, and intuitive</em> — much like Apple’s design philosophy.
+
+<h2 align="center">🌟 About Me</h2>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/person-male.png" width="90" style="border-radius:50%;"/>
 </p>
 
-<ul>
-<li>🔭 Currently building <strong>Flutter applications</strong></li>
-<li>🌱 Expanding knowledge in <strong>Dart & app architecture</strong></li>
-<li>🎨 Skilled in <strong>Figma, Photoshop, Illustrator</strong></li>
-<li>📫 Reach me at: <strong>youremail@example.com</strong></li>
+<p align="center" style="font-size:16px; line-height:1.6; color:#222; font-weight:500;">
+I’m <strong>Satyam Sehgal</strong> — a <span style="color:#007AFF;">Flutter Developer</span> and 
+<span style="color:#FF2D55;">Graphic Designer</span> who loves building clean, smooth, and impactful 
+digital experiences ✨.  
+</p>
+
+<ul style="font-size:15px; line-height:1.6; color:#333; font-weight:500;">
+  <li>🔭 Currently developing <strong>Flutter applications</strong></li>
+  <li>🌱 Learning advanced <strong>Dart & app architecture</strong></li>
+  <li>🎨 Skilled in <strong>Figma, Photoshop, Illustrator</strong></li>
+  <li>🚀 Passionate about blending <strong>design & technology</strong></li>
+  <li>📫 Contact: <a href="mailto:youremail@example.com"><strong>youremail@example.com</strong></a></li>
 </ul>
+
 </div>
 
 ---
 
 <!-- Tech Stack Card -->
 <div style="
-  border-radius:20px;
+  border-radius:24px;
   padding:20px;
-  background:linear-gradient(135deg,#ffecd2,#fcb69f);
-  box-shadow:0 4px 15px rgba(0,0,0,0.1);
+  background:linear-gradient(135deg,#89f7fe,#66a6ff);
+  box-shadow:0 4px 20px rgba(0,0,0,0.12);
   text-align:center;
 ">
   
@@ -65,22 +73,22 @@ I focus on creating apps and designs that feel <em>simple, elegant, and intuitiv
 
 <!-- GitHub Stats Card -->
 <div style="
-  border-radius:20px;
+  border-radius:24px;
   padding:20px;
   margin:20px 0;
-  background:linear-gradient(135deg,#89f7fe,#66a6ff);
-  box-shadow:0 4px 20px rgba(0,0,0,0.15);
+  background:linear-gradient(135deg,#f6d365,#fda085);
+  box-shadow:0 6px 20px rgba(0,0,0,0.12);
   text-align:center;
 ">
 
 <h2>📊 GitHub Highlights</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true&border_radius=20" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent&hide_border=true&border_radius=20" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamsehgal&show_icons=true&theme=transparent&hide_border=true&border_radius=20" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamsehgal&theme=transparent&hide_border=true&border_radius=20" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true&border_radius=20"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamsehgal&layout=compact&theme=transparent&hide_border=true&border_radius=20"/>
 </p>
 </div>
 
@@ -88,9 +96,9 @@ I focus on creating apps and designs that feel <em>simple, elegant, and intuitiv
 
 <!-- Connect With Me -->
 <div style="
-  border-radius:20px;
+  border-radius:24px;
   padding:20px;
-  background:linear-gradient(135deg,#f6d365,#fda085);
+  background:linear-gradient(135deg,#c3cfe2,#f5f7fa);
   box-shadow:0 4px 15px rgba(0,0,0,0.1);
   text-align:center;
 ">
@@ -108,5 +116,5 @@ I focus on creating apps and designs that feel <em>simple, elegant, and intuitiv
 ---
 
 <p align="center" style="font-size:16px; font-weight:500; color:#555;">
-✨ Inspired by minimal, clean, and rounded Apple design ✨
+✨ Crafted with code & creativity — inspired by Apple’s clean, rounded UI ✨
 </p>
