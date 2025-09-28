@@ -22,14 +22,11 @@ My work blends **technology and design** — ensuring not only performance but a
 
 ## 🔗 Connect With Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
+  <a href="https://linkedin.com/in/satyam-sehgal-8362002b8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com" target="_blank">
+  <a href="mailto:satyamsehgal498@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
 </p>
 
