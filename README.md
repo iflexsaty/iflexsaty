@@ -12,11 +12,11 @@
 I am a **Flutter Developer** and **Graphic Designer** who loves building clean, modern, and functional applications.  
 My work blends **technology and design** — ensuring not only performance but also beautiful user experiences.  
 
-- 🔭 Currently working on **Flutter apps**  
-- 🌱 Learning **Dart architecture & state management**  
-- 🎨 Passionate about **UI/UX design** (Figma, Photoshop, Illustrator)  
-- 🚀 Interested in **scalable mobile solutions**  
-- 📫 Reach me at: [youremail@example.com](mailto:youremail@example.com)  
+- Currently working on **Flutter apps**  
+- Learning **Dart architecture & state management**  
+- Passionate about **UI/UX design** (Figma, Photoshop, Illustrator)  
+- Interested in **scalable mobile solutions**  
+- Reach me at: [youremail@example.com](mailto:satyamsehgal498@gmail.com)  
 
 ---
 
