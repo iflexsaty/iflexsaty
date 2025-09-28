@@ -1,8 +1,10 @@
-![💫](https://github.com/user-attachments/assets/2236c847-1f7b-4170-971c-cc060d4dd2c8)
+
 
 
 <h1 align="center">Hi, I'm <strong>Satyam Sehgal</strong></h1>
 <h3 align="center">Flutter Developer | UI/UX Designer | Tech Enthusiast</h3>
+
+![🕷](https://github.com/user-attachments/assets/4f3e623a-0380-446d-b6ef-f20b5ac0dbb5)
 
 ---
 
